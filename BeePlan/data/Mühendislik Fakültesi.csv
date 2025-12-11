@@ -1,0 +1,142 @@
+ ,Monday,Tuesday,Wednesday,Thursday,Friday,,,,,
+9:20,"Math 157 (1,4)
+Math 158 (1)
+Math 205 (1)                                                                                        PHYS 131 (5,6,7,8)  TEORİ","Math 223 (1,2)
+Math 254 (1)                                                             PHYS 132 (1,2) TEORİ
+ENG 121 (2)","Math 157 (1,4)
+Math 158 (1)
+Math 205 (2) 
+BIO 101 (2) 
+PHYS 131 (1,2,3,4)  TEORİ","Math 223 (1)
+Math 254 (1)                                                                                                                         PHYS 131 (5,6,7,8)  TEORİ                                                                                        Chem 103 LAB (3,4) BIO 101 (3) 
+HIST 201(3) ENG 221 (2)","PHYS 132 (1,2) TEORİ
+ENG 121 (3)",,,,,
+10:20,"Math 157 (1,4)
+Math 158 (1)
+Math 205 (1)                                                                                          PHYS 131 (5,6,7,8)  TEORİ","Math 223 (1,2)
+Math 254 (1)                                                                     PHYS 132 (1,2) TEORİ                                               HIST 205 (Yabancı Öğreciler)
+ENG 121 (2)","Math 157 (1,4)
+Math 158 (1)
+Math 205 (2) BIO 101 (2)                                                                               PHYS 131 (1,2,3,4)  TEORİ","Math 223 (1)
+Math 254 (1)                                                                                                                     PHYS 131 (5,6,7,8)  TEORİ                                                                                            Chem 103 LAB (3,4)                                                       BIO 101 (3) ENG 221 (2)","PHYS 132 (1,2) TEORİ                                                                                                         HIST 202 (1)
+ENG 121 (3)",,,,,
+11:20,"Math 205 (1)                                                                                      Chem 103 (1,2)                                                                                    TURK 101 (1)  HIST 201(2)","Math 223 (1,2)                                                         Phys131 ( 5,6) LAB 
+HIST 205 (Yabancı Öğreciler)
+ENG 121 (2)","Math 205 (2) BIO 101 (2)                                                                          Phys132 ( 1,2) LAB                                                              Chem 103 LAB (1,2) ","Math 223 (2)                                                                                                                    Phys131 ( 9,10) LAB                                                                                                            Chem 103 (1,2)                                                        BIO 101 (3)","Phys131 (3,4 ) LAB                                                                                                               
+ENG 121 (3)",,,,,
+12:20,"Chem 103 (1,2) TURK 101(2)                                                                        HIST 201(1)                                                                        ","Phys131 ( 5,6) LAB 
+TURK 101(3)","Phys132 ( 1,2) LAB                                                              Chem 103 LAB (1,2) TURK 105 (Yabancı Öğr)","Math 223 (2)                                                                                                                      Phys131 ( 9,10) LAB                                                                                                             Chem 103 (1,2) ","Phys131 ( 3,4) LAB",,,,,
+13:20,"Math 157 (2,5)
+Math 158 (2)                                                                                 PHYS 131 (9,10,11,12)  TEORİ
+ENG 121 (1)","Math 157 (3,6)
+Math 253 
+Math 254 (2)
+Chem 103 (3,4)
+HIST 206 (Yabancı Öğreciler)                             TURK 102 (1)
+ENG 221 (1)","Math 157 (2,5)
+Math 158 (2)                                                                             PHYS 131 (9,10,11,12)  TEORİ                                        TURK 105 (Yabancı Öğr)","Math 157 (3,6)
+Math 254 (2)                                                                                                                       PHYS 131 (1,2,3,4)  TEORİ
+ENG 321",,,,,,
+14:20,"Math 157 (2,5)
+Math 158 (2)                                                                                 PHYS 131 (9,10,11,12)  TEORİ
+ENG 121 (1)","Math 157 (3,6)
+Math 253
+Math 254 (2)
+Chem 103 (3,4)
+HIST 206 (Yabancı Öğreciler)
+ENG 221 (1)","Math 157 (2,5)
+Math 158 (2)                                                                             PHYS 131 (9,10,11,12)  TEORİ                                          TURK 105 (Yabancı Öğr)","Math 157 (3,6)
+Math 254 (2)                                                                                                                             PHYS 131 (1,2,3,4)  TEORİ
+ENG 321",,,,,,
+15:20,"Chem 103 (3,4)
+ENG 121 (1)","Phys131 (1,2 ) LAB","Phys131 ( 7,8) LAB","Math 253                                                                                       Phys131 ( 11,12) LAB
+ENG 321",,,,,,
+16:20,"Chem 103 (3,4)                                                                                ","Phys131 (1,2 ) LAB","Phys131 ( 7,8) LAB                                                                  ","Math 253                                                                                                                              Phys131 ( 11,12) LAB",,,,,,
+,,,,,,,,,,
+,MATEMATİK DERSLERİ,,,,MATEMATİK DERSLERİ,,,,,
+,,,,,Bölümlere Göre Grup Dağılımları,MATH 157 ,MATH 158 ,MATH 205,MATH 253,MATH 254
+,,Irregular Courses,Regular Courses,,Bilgisayar Mühendisliği,"3,6",2,1,,1
+,Bilgisayar Mühendisliği,"Math 158
+Math 205","Math 157
+Math 254",,Elektrik Elektronik Mühendisliği,"3,6",2,2,,1
+,Elektrik Elektronik Mühendisliği,"Math 158
+Math 254","Math 157
+Math 205",,Elektronik Haberleşme Mühendisliği,"3,6",1,,1,2
+,Elektronik Haberleşme Mühendisliği,"Math 158
+Math 254","Math 157
+Math 253",,Endüstri Mühendisliği,"1,4",2,1,,
+,Endüstri Mühendisliği,Math 158,"Math 157
+Math 205",,İnşaat Mühendisliği,"2,5",1,,1,2
+,İnşaat Mühendisliği,"Math 158
+Math 254","Math 157
+Math 253",,Makine Mühendisliği,"1,4",1,,1,2
+,Makine Mühendisliği,"Math 158
+Math 253","Math 157
+Math 254",,Malzeme Bilimleri Mühendisliği,"1,4",2,,,1
+,Malzeme Bilimleri Mühendisliği,Math 158,"Math 157
+Math 254",,Mekatronik Mühendisliği,"2,5",1,,1,2
+,Mekatronik Mühendisliği,"Math 158
+Math 253","Math 157
+Math 254",,Yazılım Mühendisliği,"2,5",1,2,,
+,Yazılım Mühendisliği,"Math 158
+Math 205","Math 157
+Math 223",,Matematik,,,,,
+,,,,,,,,,,
+,,FİZİK DERSLERİ,,,,,,,,
+,,,,,,,,,,
+,Bölümlere Göre Grup Dağılımları,PHYS 131 Regular,PHYS 132 Irregular,,,,,,,
+,Bilgisayar Mühendisliği,"5,6,7,8","1,2",,,,,,,
+,Elektrik Elektronik Mühendisliği,"5,6,7,8","1,2",,,,,,,
+,Elektronik Haberleşme Mühendisliği,"5,6,7,8","1,2",,,,,,,
+,Endüstri Mühendisliği,"9,10,11,12","1,2",,,,,,,
+,İnşaat Mühendisliği,"1,2,3,4","1,2",,,,,,,
+,Makine Mühendisliği,"9,10,11,12","1,2",,,,,,,
+,Malzeme Bilimleri Mühendisliği,"9,10,11,12","1,2",,,,,,,
+,Mekatronik Mühendisliği,"1,2,3,4","1,2",,,,,,,
+,Yazılım Mühendisliği,"1,2,3,4","1,2",,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,KİMYA DERSLERİ,,,,,,,,
+,,,,,,,,,,
+,Bölümlere Göre Grup Dağılımları,CHEM 103,,,,,,,,
+,İnşaat Mühendisliği,"1,2",,,,,,,,
+,Mekatronik Mühendisliği,"3,4",,,,,,,,
+,,,,,,,,,,
+,,TARİH DERSLERİ,,,,,,,,
+,,HIST 201,HIST 202 (irregular),HIST 205 (Yabancı Öğr),HIST 206 (Yabancı Öğr) Irregular,,,,,
+,Bilgisayar Mühendisliği,2,Bütün Bölümler (1),Bütün Bölümler (1),Bütün Bölümler (1),,,,,
+,Elektrik-Elektronik Müh.,2,,,,,,,,
+,Makine Mühendisliği,1,,,,,,,,
+,Yazılım Mühendisliği,1,,,,,,,,
+,Endüstri Mühendisliği,1,,,,,,,,
+,Mekatronik Mühendisliği,1,,,,,,,,
+,İnşaat Mühendisliği,3,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,TURKÇE DERSLERİ,,,,,,,,
+,,TURK 101,TURK 102 (irregular),TURK 105 (Yabancı Öğr.),,,,,,
+,Bilgisayar Mühendisliği,2,Bütün Bölümler (1),Bütün Bölümler (1),,,,,,
+,Elektrik-Elektronik Müh.,2,,,,,,,,
+,Makine Mühendisliği,1,,,,,,,,
+,Yazılım Mühendisliği,1,,,,,,,,
+,Endüstri Mühendisliği,1,,,,,,,,
+,Mekatronik Mühendisliği,1,,,,,,,,
+,İnşaat Mühendisliği,3,,,,,,,,
+,,,,,,,,,,
+,,BİYOLOJİ DERSİ,,,,,,,,
+,,BIO 101,,,,,,,,
+,Bilgisayar Mühendisliği,2,,,,,,,,
+,Yazılım Mühendisliği,3,,,,,,,,
+,,,,,,,,,,
+,,İNGİLİZCE DERSLERİ,,,,,,,,
+,,ENG 121,ENG 221,ENG 321,,,,,,
+,Bilgisayar Mühendisliği,1,-,Herkese Açık - Seçmeli,,,,,,
+,Elektronik ve Haberleşme Mühendisliği,3,-,Herkese Açık - Seçmeli,,,,,,
+,Elektrik Elektronik Mühendisliği,1,-,Herkese Açık - Seçmeli,,,,,,
+,Endüstri Mühendisliği,3,-,Herkese Açık - Seçmeli,,,,,,
+,İnşaat Mühendisliği,2,-,Herkese Açık - Seçmeli,,,,,,
+,Makine Mühendisliği,3,2,Herkese Açık - Seçmeli,,,,,,
+,Malzeme Mühendisliği,2,1,Herkese Açık - Seçmeli,,,,,,
+,Mekatronik Mühendisliği,2,2,Herkese Açık - Seçmeli,,,,,,
+,Yazılım Mühendisliği,2,-,Herkese Açık - Seçmeli,,,,,,
