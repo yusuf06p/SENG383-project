@@ -1,0 +1,12 @@
+TC1,Task Beginner,Complete 5 tasks,TASK_COMPLETION,5,false
+TC2,Task Master,Complete 20 tasks,TASK_COMPLETION,20,false
+PE1,Point Collector,Earn 50 points,POINTS_EARNED,50,true
+PE2,Point Hoarder,Earn 200 points,POINTS_EARNED,200,false
+PE3,Point Master,Earn 500 points,POINTS_EARNED,500,false
+RE1,Good Ratings,Achieve an average rating of 3,RATING_EARNED,3,true
+RE2,Excellent Ratings,Achieve an average rating of 5,RATING_EARNED,5,false
+LR1,Level Up,Reach level 2,LEVEL_REACHED,2,true
+LR2,High Level,Reach level 3,LEVEL_REACHED,3,false
+LR3,Max Level,Reach level 4,LEVEL_REACHED,4,false
+WA1,Wish Granted,Get a wish approved,WISH_APPROVED,1,true
+WA2,Dream Achiever,Get 3 wishes approved,WISH_APPROVED,3,false

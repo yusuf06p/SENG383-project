@@ -1,0 +1,2 @@
+WISH1 W102 "Lego Set" "Price:150TL, Brand:LEGO" LEVEL 3
+WISH2 W103 "Go to the Cinema" "Price:100TL" 2025-03-07 14:00 2025-03-07 16:00 LEVEL 2
